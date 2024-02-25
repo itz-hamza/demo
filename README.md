@@ -10,3 +10,6 @@ just learned that .git is a hidden file which tracks all the info and changed of
 i need to learn much more stuff about all these things
 
 i just know the bare basics as of now
+
+watched that video upto 20 mins will continue later
+
