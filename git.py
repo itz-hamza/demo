@@ -1,0 +1,1 @@
+print("learning about git add, because apparently new files arent tracked by git and we need to add them")
